@@ -1,0 +1,8 @@
+Age,Sex,Major,Mid-term test,Attendance rate,Pass
+Old,F,Education,Low,Low,Y
+Young,M,Physics,Low,Low,N
+Old,F,Physics,High,High,Y
+Old,M,Physics,High,High,Y
+Young,M,Education,High,High,Y
+Old,F,Education,High,High,Y
+Young,F,Physics,High,Low,Y
